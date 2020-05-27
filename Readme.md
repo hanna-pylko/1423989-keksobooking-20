@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Hanna Pylko](https://up.htmlacademy.ru/javascript/20/user/1423989).
-* Наставник: `Неизвестно`.
+* Наставник: [Святослав Нестерук](https://htmlacademy.ru/profile/id105118).
 
 ---
 
